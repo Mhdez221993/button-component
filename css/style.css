@@ -18,9 +18,12 @@ body {
 
 /* Base class --------------------> */
 .btn {
+  border-radius: 4px;
 }
 
 .primary_btn {
+  color: #fff;
+  background-color: #4338ca;
 }
 
 .secondary_btn {
@@ -40,6 +43,7 @@ body {
 
 /* Primary btn ---------------------> */
 .primary_btn_size_md {
+  padding: 10px 14px;
 }
 
 .primary_btn_size_lg {
