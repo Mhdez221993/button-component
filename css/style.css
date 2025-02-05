@@ -17,157 +17,157 @@ body {
 }
 
 /* Base class --------------------> */
-.button {
+.btn {
 }
 
-.primary_button {
+.primary_btn {
 }
 
-.secondary_button {
+.secondary_btn {
 }
 
-.tertiary_button {
+.tertiary_btn {
 }
 
-.link_color_button {
+.link_color_btn {
 }
 
-.link_grey_button {
+.link_grey_btn {
 }
 
-.destructive_button {
+.destructive_btn {
 }
 
-/* Primary Button ---------------------> */
-.primary_button_size_md {
+/* Primary btn ---------------------> */
+.primary_btn_size_md {
 }
 
-.primary_button_size_lg {
+.primary_btn_size_lg {
 }
 
-.primary_button_size_xl {
+.primary_btn_size_xl {
 }
 
-.primary_button_size_xxl {
+.primary_btn_size_xxl {
 }
 
-.primary_button:hover {
+.primary_btn:hover {
 }
 
-.primary_button:focus {
+.primary_btn:focus {
 }
 
-.primary_button:disabled {
+.primary_btn:disabled {
 }
 
-/* Secondary Button ---------------------> */
-.secondary_button_size_md {
+/* Secondary btn ---------------------> */
+.secondary_btn_size_md {
 }
 
-.secondary_button_size_lg {
+.secondary_btn_size_lg {
 }
 
-.secondary_button_size_xl {
+.secondary_btn_size_xl {
 }
 
-.secondary_button_size_xxl {
+.secondary_btn_size_xxl {
 }
 
-.secondary_button:hover {
+.secondary_btn:hover {
 }
 
-.secondary_button:focus {
+.secondary_btn:focus {
 }
 
-.secondary_button:disabled {
+.secondary_btn:disabled {
 }
 
-/* Tertiary Button ---------------------> */
-.tertiary_button_size_md {
+/* Tertiary btn ---------------------> */
+.tertiary_btn_size_md {
 }
 
-.tertiary_button_size_lg {
+.tertiary_btn_size_lg {
 }
 
-.tertiary_button_size_xl {
+.tertiary_btn_size_xl {
 }
 
-.tertiary_button_size_xxl {
+.tertiary_btn_size_xxl {
 }
 
-.tertiary_button:hover {
+.tertiary_btn:hover {
 }
 
-.tertiary_button:focus {
+.tertiary_btn:focus {
 }
 
-.tertiary_button:disabled {
+.tertiary_btn:disabled {
 }
 
-/* Link Color Button ---------------------> */
-.link_color_button_size_md {
+/* Link Color btn ---------------------> */
+.link_color_btn_size_md {
 }
 
-.link_color_button_size_lg {
+.link_color_btn_size_lg {
 }
 
-.link_color_button_size_xl {
+.link_color_btn_size_xl {
 }
 
-.link_color_button_size_xxl {
+.link_color_btn_size_xxl {
 }
 
-.link_color_button:hover {
+.link_color_btn:hover {
 }
 
-.link_color_button:focus {
+.link_color_btn:focus {
 }
 
-.link_color_button:disabled {
+.link_color_btn:disabled {
 }
 
-/* Link Grey Button ---------------------> */
-.link_grey_button_size_md {
+/* Link Grey btn ---------------------> */
+.link_grey_btn_size_md {
 }
 
-.link_grey_button_size_lg {
+.link_grey_btn_size_lg {
 }
 
-.link_grey_button_size_xl {
+.link_grey_btn_size_xl {
 }
 
-.link_grey_button_size_xxl {
+.link_grey_btn_size_xxl {
 }
 
-.link_grey_button:hover {
+.link_grey_btn:hover {
 }
 
-.link_grey_button:focus {
+.link_grey_btn:focus {
 }
 
-.link_grey_button:disabled {
+.link_grey_btn:disabled {
 }
 
-/* Destructive Button ---------------------> */
-.destructive_button_size_md {
+/* Destructive btn ---------------------> */
+.destructive_btn_size_md {
 }
 
-.destructive_button_size_lg {
+.destructive_btn_size_lg {
 }
 
-.destructive_button_size_xl {
+.destructive_btn_size_xl {
 }
 
-.destructive_button_size_xxl {
+.destructive_btn_size_xxl {
 }
 
-.destructive_button:hover {
+.destructive_btn:hover {
 }
 
-.destructive_button:focus {
+.destructive_btn:focus {
 }
 
-.destructive_button:disabled {
+.destructive_btn:disabled {
 }
 
 @media (min-width: 768px) {
