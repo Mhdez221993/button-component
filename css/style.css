@@ -11,3 +11,167 @@ body {
   margin: 0;
   padding: 0;
 }
+
+/* Container */
+.container {
+}
+
+/* Base class --------------------> */
+.button {
+}
+
+.primary_button {
+}
+
+.secondary_button {
+}
+
+.tertiary_button {
+}
+
+.link_color_button {
+}
+
+.link_grey_button {
+}
+
+.destructive_button {
+}
+
+/* Primary Button ---------------------> */
+.primary_button_size_md {
+}
+
+.primary_button_size_lg {
+}
+
+.primary_button_size_xl {
+}
+
+.primary_button_size_xxl {
+}
+
+.primary_button:hover {
+}
+
+.primary_button:focus {
+}
+
+.primary_button:disabled {
+}
+
+/* Secondary Button ---------------------> */
+.secondary_button_size_md {
+}
+
+.secondary_button_size_lg {
+}
+
+.secondary_button_size_xl {
+}
+
+.secondary_button_size_xxl {
+}
+
+.secondary_button:hover {
+}
+
+.secondary_button:focus {
+}
+
+.secondary_button:disabled {
+}
+
+/* Tertiary Button ---------------------> */
+.tertiary_button_size_md {
+}
+
+.tertiary_button_size_lg {
+}
+
+.tertiary_button_size_xl {
+}
+
+.tertiary_button_size_xxl {
+}
+
+.tertiary_button:hover {
+}
+
+.tertiary_button:focus {
+}
+
+.tertiary_button:disabled {
+}
+
+/* Link Color Button ---------------------> */
+.link_color_button_size_md {
+}
+
+.link_color_button_size_lg {
+}
+
+.link_color_button_size_xl {
+}
+
+.link_color_button_size_xxl {
+}
+
+.link_color_button:hover {
+}
+
+.link_color_button:focus {
+}
+
+.link_color_button:disabled {
+}
+
+/* Link Grey Button ---------------------> */
+.link_grey_button_size_md {
+}
+
+.link_grey_button_size_lg {
+}
+
+.link_grey_button_size_xl {
+}
+
+.link_grey_button_size_xxl {
+}
+
+.link_grey_button:hover {
+}
+
+.link_grey_button:focus {
+}
+
+.link_grey_button:disabled {
+}
+
+/* Destructive Button ---------------------> */
+.destructive_button_size_md {
+}
+
+.destructive_button_size_lg {
+}
+
+.destructive_button_size_xl {
+}
+
+.destructive_button_size_xxl {
+}
+
+.destructive_button:hover {
+}
+
+.destructive_button:focus {
+}
+
+.destructive_button:disabled {
+}
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 1440px) {
+}
