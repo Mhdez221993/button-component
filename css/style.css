@@ -14,16 +14,37 @@ body {
 
 /* Container */
 .container {
+  max-width: 695px;
+  margin: 100px auto;
+  padding: 0 26px;
+  font-family: "Noto Sans", Helvetica;
+}
+
+.button-container {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 20px;
+  align-items: center;
 }
 
 /* Base class --------------------> */
 .btn {
+  padding: 10px;
   border-radius: 4px;
+  border: none;
+  font-weight: 400px;
+  font-size: 14px;
+  line-height: 20px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  /* gap: 10px; */
+  letter-spacing: 0.4px;
 }
 
 .primary_btn {
-  color: #fff;
-  background-color: #4338ca;
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(67, 56, 202, 1);
 }
 
 .secondary_btn {
@@ -43,16 +64,39 @@ body {
 
 /* Primary btn ---------------------> */
 .primary_btn_size_md {
-  padding: 10px 14px;
+  width: 107px;
+  height: 40px;
 }
 
 .primary_btn_size_lg {
+  width: 148px;
+  height: 44px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  gap: 6px;
 }
 
 .primary_btn_size_xl {
+  width: 156px;
+  height: 48px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  gap: 10px;
 }
 
 .primary_btn_size_xxl {
+  width: 148px;
+  height: 60px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.primary_btn_start_icon {
+  width: 56px;
+  height: 56px;
 }
 
 .primary_btn:hover {
@@ -175,7 +219,9 @@ body {
 }
 
 @media (min-width: 768px) {
-}
+  .container {
+    padding: 0;
+  }
 
 @media (min-width: 1440px) {
 }
