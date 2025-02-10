@@ -155,16 +155,33 @@ body {
 }
 
 /* Link Color btn ---------------------> */
-.link_color_btn_size_md {
+.link_color {
+  color: #4338CA;
 }
 
-.link_color_btn_size_lg {
+.link_color.btn_size_md {
+  width: 79px;
+  height: 20px;
 }
 
-.link_color_btn_size_xl {
+.link_color.btn_size_lg {
+  width: 116px;
+  height: 24px;
 }
 
-.link_color_btn_size_xxl {
+.link_color.btn_size_xl {
+  width: 120px;
+  height: 24px;
+}
+
+.link_color.btn_size_xxl {
+  width: 100px;
+  height: 28px;
+}
+
+.link_color.btn_start_icon {
+  width: 24px;
+  height: 24px;
 }
 
 .link_color_btn:hover {
