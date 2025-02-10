@@ -141,12 +141,17 @@ body {
 }
 
 .tertiary_btn:hover {
+  background-color: #FAFAFA;
+
 }
 
 .tertiary_btn:focus {
+  background-color: #FAFAFA;
+  box-shadow: 0px 0px 0px 4px #444CE71F;
 }
 
 .tertiary_btn:disabled {
+  color: #A3A3A3;
 }
 
 /* Link Color btn ---------------------> */
