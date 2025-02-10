@@ -157,40 +157,47 @@ body {
 /* Link Color btn ---------------------> */
 .link_color {
   color: #4338CA;
+  padding-left: 2px;
+  padding-right: 2px;
 }
 
 .link_color.btn_size_md {
-  width: 79px;
+  width: 83px;
   height: 20px;
 }
 
 .link_color.btn_size_lg {
-  width: 116px;
-  height: 24px;
-}
-
-.link_color.btn_size_xl {
   width: 120px;
   height: 24px;
 }
 
+.link_color.btn_size_xl {
+  width: 124px;
+  height: 24px;
+}
+
 .link_color.btn_size_xxl {
-  width: 100px;
+  width: 104px;
   height: 28px;
 }
 
 .link_color.btn_start_icon {
-  width: 24px;
-  height: 24px;
+  width: 26px;
+  height: 26px;
 }
 
-.link_color_btn:hover {
+.link_color:hover {
+  color: #3730A3;
 }
 
-.link_color_btn:focus {
+.link_color:focus {
+  color: #3730A3;
+  background-color: #fff;
+  box-shadow: 0px 0px 0px 4px #444CE71F;
 }
 
-.link_color_btn:disabled {
+.link_color:disabled {
+  color: #A3A3A3;
 }
 
 /* Link Grey btn ---------------------> */
